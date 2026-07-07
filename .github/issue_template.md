@@ -1,12 +1,12 @@
 
-- 项目名称：
+- Project Name:
 
-- 项目地址：
+- Project URL:
 
-- 项目简介 (**100** 字以内)：
+- Project Description (**100** words max):
 
-- 项目截图 (**6**张以内)：
+- Screenshots (**6** max):
 
 
 
-参考 [模板](https://github.com/GitHubDaily/GitHubDaily/issues/8)
+Reference [Template](https://github.com/GitHubDaily/GitHubDaily/issues/8)
