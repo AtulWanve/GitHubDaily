@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/weixin.png"><img src="https://img.shields.io/badge/ GitHubDaily-WeChat-brightgreen.svg" alt="WeChat"></a>
+  <a href="https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/weixin.png"><img src="https://img.shields.io/badge/GitHubDaily-WeChat-brightgreen.svg" alt="WeChat"></a>
   <a href="https://weibo.com/GitHubDaily"><img src="https://img.shields.io/badge/%E6%96%B0%E6%B5%AA-%E5%BE%AE%E5%8D%9A-red" alt="Weibo"></a>
   <a href="https://www.zhihu.com/people/githubdaily"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-blue" alt="Zhihu"></a>
   <a href="https://x.com/intent/follow?screen_name=GitHub_Daily"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/GitHub_Daily"></a>

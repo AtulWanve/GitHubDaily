@@ -16,7 +16,7 @@ How is that possible? Let me explain.
 
 This book is actually adapted from a public-service educational activity called CS Unplugged, which originated overseas.
 
-The activity has been running for over twenty years. It was initially created by three students—Tim Bell, Ian Witten, and Mike Fellows—from different universities. Today, it has grown considerably, with support from the University of Canterbury and Google.
+The activity has been running for over twenty years. It was initially created by three professors—Tim Bell, Ian Witten, and Mike Fellows—from different universities. Today, it has grown considerably, with support from the University of Canterbury and Google.
 
 The original goal of this initiative was to offer a more accessible and friendly teaching approach, allowing students and professionals from other fields who are interested in computer science to easily appreciate the charm of the discipline.
 
